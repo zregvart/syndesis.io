@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture on Syndesis - Open source integration platform</title>
-    <link>https://https://zregvart.github.io/syndesis.io/docs/architecture/</link>
+    <link>https://zregvart.github.io/syndesis.io/docs/architecture/</link>
     <description>Recent content in Architecture on Syndesis - Open source integration platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://https://zregvart.github.io/syndesis.io/docs/architecture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zregvart.github.io/syndesis.io/docs/architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Syndesis Architecture</title>
-      <link>https://https://zregvart.github.io/syndesis.io/docs/architecture/syndesis/</link>
+      <link>https://zregvart.github.io/syndesis.io/docs/architecture/syndesis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://https://zregvart.github.io/syndesis.io/docs/architecture/syndesis/</guid>
+      <guid>https://zregvart.github.io/syndesis.io/docs/architecture/syndesis/</guid>
       <description>This document illustrates at high level the core components of Syndesis and how they communicate together to serve integrations.
 Heads up! The discussion provided in this document is leaving many details and additional components on purpose as it wants to be a high level approach to the architecture behind Syndesis.  Overview Syndesis is composed by several components that are deployed automatically by the operator component. To install Syndesis, you just have to deploy an instance of the operator which will take care of deploying the rest of the components and make sure there is always one healthy instance up.</description>
     </item>
     
     <item>
       <title>Maven Architecture</title>
-      <link>https://https://zregvart.github.io/syndesis.io/docs/architecture/maven_architecture/</link>
+      <link>https://zregvart.github.io/syndesis.io/docs/architecture/maven_architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://https://zregvart.github.io/syndesis.io/docs/architecture/maven_architecture/</guid>
+      <guid>https://zregvart.github.io/syndesis.io/docs/architecture/maven_architecture/</guid>
       <description>Maven Groups Syndesis uses Maven as build tool. Maven groups are used to separate the various Syndesis parts.
 In details Syndesis consists of the following groups:
    Group Package Docker Image Description     common io.syndesis.common  Syndesis shared common module   connector io.syndesis.connector  Supported connectors   dv io.syndesis.dv  Tool that manages dynamic VDBs for the Teiid OpenShift Deployment.   extension io.</description>
