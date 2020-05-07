@@ -604,9 +604,6 @@ tbody.collapse.show {
 
 @supports (transform: translate3d(0, 0, 0)) { }
 
-.align-middle {
-  vertical-align: middle !important; }
-
 .bg-primary {
   background-color: #0088ce !important; }
 
@@ -1518,9 +1515,6 @@ tbody.collapse.show {
   @supports (transform: translate3d(0, 0, 0)) { }
 
 @supports (transform: translate3d(0, 0, 0)) { }
-
-.align-middle {
-  vertical-align: middle !important; }
 
 .bg-primary {
   background-color: #0088ce !important; }

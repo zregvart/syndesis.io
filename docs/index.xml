@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on Syndesis - Open source integration platform</title>
-    <link>https://syndesis.io/docs/</link>
+    <link>https://https://zregvart.github.io/syndesis.io/docs/</link>
     <description>Recent content in Documentation on Syndesis - Open source integration platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://syndesis.io/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://https://zregvart.github.io/syndesis.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development QuickStart</title>
-      <link>https://syndesis.io/docs/development_quickstart/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/docs/development_quickstart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://syndesis.io/docs/development_quickstart/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/docs/development_quickstart/</guid>
       <description>If you’d like to get a local development environment up and running, for both the UI and REST API, this is how you’d do it.
 Tips
  Build on branch, not master. Callback URL Example: https://syndesis.192.168.64.29.nip.io/api/v1/credentials/callback  Requirements You can follow these steps if it’s your first time setting up Syndesis, or if you want a fresh local installation to replace an existing one. Some environment-specific instructions may be available below as well.</description>

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Syndesis - Open source integration platform</title>
-    <link>https://syndesis.io/blog/</link>
+    <link>https://https://zregvart.github.io/syndesis.io/blog/</link>
     <description>Recent content in Blog on Syndesis - Open source integration platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 24 Apr 2020 12:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://syndesis.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://https://zregvart.github.io/syndesis.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to use an extension</title>
-      <link>https://syndesis.io/blog/2020/04/24/extensions/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/2020/04/24/extensions/</link>
       <pubDate>Fri, 24 Apr 2020 12:00:00 +0100</pubDate>
       
-      <guid>https://syndesis.io/blog/2020/04/24/extensions/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/2020/04/24/extensions/</guid>
       <description>Customization is a key factor in any successful software product. Even more for an integration platform whose goal is to make heterogeneous external systems communicate between them.
 Syndesis is a flexible integration platform and takes this aspect seriously providing an Extension mechanism by design. We also know that once the platform is up and running, it is desirable to have an easy way to install a customization with no need to involve IT in upgrade procedures.</description>
     </item>
     
     <item>
       <title>Version 1.9.0 Released</title>
-      <link>https://syndesis.io/blog/20200407-version-1.9/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/20200407-version-1.9/</link>
       <pubDate>Tue, 07 Apr 2020 07:00:00 +0100</pubDate>
       
-      <guid>https://syndesis.io/blog/20200407-version-1.9/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/20200407-version-1.9/</guid>
       <description>It has been a long hard way, but we have just released Syndesis 1.9.0!
 This version includes many new features since latest 1.8.13 release. We have now new connectors for Kafka, Debezium, Amazon DDB and many others. It also contains several bug fixes, upgrades of dependencies and uses a newer Camel version (2.23). We encourage everyone to update their Syndesis installations to this new version. Let us know what are the new features you enjoy most!</description>
     </item>
     
     <item>
       <title>Connection autodiscovery</title>
-      <link>https://syndesis.io/blog/2020/03/02/autodiscovery/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/2020/03/02/autodiscovery/</link>
       <pubDate>Mon, 02 Mar 2020 12:00:00 +0100</pubDate>
       
-      <guid>https://syndesis.io/blog/2020/03/02/autodiscovery/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/2020/03/02/autodiscovery/</guid>
       <description>One of the most important reason why we are developing an IPAAS is to make citizen integrators life simpler. This persona must be able to quickly create integrations by composing heterogeneous sources of data. One of the typical gap that she finds is to be aware of which are those sources available. The expected scenario is to know before-hand the host names of databases, queues, REST endpoints&amp;hellip;
 Datasource dashboard What if this information is automatically discovered by the platform?</description>
     </item>
     
     <item>
       <title>MongoDB connector General Available</title>
-      <link>https://syndesis.io/blog/2020/02/28/mongodb/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/2020/02/28/mongodb/</link>
       <pubDate>Fri, 28 Feb 2020 12:00:00 +0100</pubDate>
       
-      <guid>https://syndesis.io/blog/2020/02/28/mongodb/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/2020/02/28/mongodb/</guid>
       <description>MongoDB connector was first introduced in Syndesis 1.8 as tech preview feature. We&amp;rsquo;ve worked hard during the development of version 1.9 and have it now as a general available feature!
 Document-oriented databases have become extremely popular in the last years becoming one of the most important NO SQL choice out there. Without any doubt, MongoDB is the most prominent solution in this space. The easiest way to learn about this connector is to play around with the MongoDB Quickstart.</description>
     </item>
     
     <item>
       <title>Community meeting the 29th of January!</title>
-      <link>https://syndesis.io/blog/meeting-29-january-2020/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/meeting-29-january-2020/</link>
       <pubDate>Wed, 29 Jan 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://syndesis.io/blog/meeting-29-january-2020/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/meeting-29-january-2020/</guid>
       <description>There will be a new community meeting of Syndesis the 29th of January, at 13:00 UTC.
 We will meet through Google Hangouts on this room.
 There is an agenda that can be edited to add more talking points. The idea is to focus on building a stronger and bigger community.
@@ -65,10 +65,10 @@ You are welcome to join this meeting or join us in any of our community networki
     
     <item>
       <title>Syndesis at FOSDEM 2020</title>
-      <link>https://syndesis.io/blog/fosdem-2020/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/fosdem-2020/</link>
       <pubDate>Wed, 01 Jan 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://syndesis.io/blog/fosdem-2020/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/fosdem-2020/</guid>
       <description>Join us at FOSDEM 2020, we&#39;ll be at the Integration Community Stand both days of the conference
   FOSDEM is a two-day free, no registration, just show up, event in Brussels, Belgium, happening each year on the first weekend of February. It is the biggest community event around free/open source software and a great place to meet in person and exchange ideas.
 This year FOSDEM is on the 1st and 2nd of February at the Université libre de Bruxelles Campus du Solbosch.</description>
@@ -76,10 +76,10 @@ This year FOSDEM is on the 1st and 2nd of February at the Université libre de B
     
     <item>
       <title>Community meeting the 15th of October!</title>
-      <link>https://syndesis.io/blog/meeting-15-october-2019/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/meeting-15-october-2019/</link>
       <pubDate>Fri, 04 Oct 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://syndesis.io/blog/meeting-15-october-2019/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/meeting-15-october-2019/</guid>
       <description>There will be a new community meeting of Syndesis the 15th of October, at 13:00 UTC.
 We will meet through Google Hangouts on this room.
 There is an agenda that can be edited to add more talking points. The idea is to focus on building a stronger and bigger community.
@@ -88,40 +88,40 @@ You are welcome to join this meeting or join us in any of our community networki
     
     <item>
       <title>Full integration to Salesforce with Red Hat Integration</title>
-      <link>https://syndesis.io/blog/full-integration/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/full-integration/</link>
       <pubDate>Wed, 13 Feb 2019 21:02:42 +0100</pubDate>
       
-      <guid>https://syndesis.io/blog/full-integration/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/full-integration/</guid>
       <description>Series of 3 blog posts by Christina Lin
 Read more..</description>
     </item>
     
     <item>
       <title>Hello World Syndesis!</title>
-      <link>https://syndesis.io/blog/quickstarts/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/quickstarts/</link>
       <pubDate>Mon, 28 Jan 2019 21:02:42 +0100</pubDate>
       
-      <guid>https://syndesis.io/blog/quickstarts/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/quickstarts/</guid>
       <description>Syndesis is an open Source Integration Platform As A Service (IPaaS), on premise or in the cloud, with no coding required. A business analyst can set up their own Twitter to Salesforce campaign and deploy the integration in a container on OpenShift.
 The easiest way to try Syndesis is to use a trial of the product called Fuse Online. You can sign up at https://www.redhat.com/en/technologies/jboss-middleware/fuse-online, and skip right to the QuickStart section.</description>
     </item>
     
     <item>
       <title>No Coding Required</title>
-      <link>https://syndesis.io/blog/no-coding-required/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/no-coding-required/</link>
       <pubDate>Tue, 28 Aug 2018 21:02:42 +0100</pubDate>
       
-      <guid>https://syndesis.io/blog/no-coding-required/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/no-coding-required/</guid>
       <description>My presentation at SATURN 2018 about Syndesis’ Development and its Architecture
 Read more..</description>
     </item>
     
     <item>
       <title>Announcing Syndesis</title>
-      <link>https://syndesis.io/blog/announcing-syndesis/</link>
+      <link>https://https://zregvart.github.io/syndesis.io/blog/announcing-syndesis/</link>
       <pubDate>Wed, 10 May 2017 16:42:50 +0100</pubDate>
       
-      <guid>https://syndesis.io/blog/announcing-syndesis/</guid>
+      <guid>https://https://zregvart.github.io/syndesis.io/blog/announcing-syndesis/</guid>
       <description>The Integration Platform That’s For Everyone - No Coding Required. Best of All? Syndesis runs in the cloud or on-premise, on OpenShift or Kubernetes. The week before Red Hat Summit is always crazy, seemingly endless demo recordings, and lots of blood, sweat, and tears. So many tears. Even more so when your project is going to have it&amp;rsquo;s first public airing. And so our team is ecstatic to announce the release of Syndesis, a game-changing data integration platform that can be run in the cloud, requires no code whatsoever (but can be extended, should you be so inclined), and, in typical Red Hat fashion, is completely open source.</description>
     </item>
     
